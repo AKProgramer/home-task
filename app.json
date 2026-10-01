@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Quiz3 Expo App",
+    "slug": "quiz3-expo-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true
+  }
+}
